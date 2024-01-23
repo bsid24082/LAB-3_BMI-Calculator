@@ -14,7 +14,7 @@
     justify-content: center;
     min-height: 100vh;
     background: url(./images/Screenshot\ 2024-01-22\ at\ 23.21.02.png);
-    background-size: 100% 100% ;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     
     }
@@ -363,7 +363,7 @@ border: 2px solid red;
 
       width: 380px;
     }
-body{
-    background-size: 50% ;
+  body{
+      background-size: 100% 100% ;
 }
 }
